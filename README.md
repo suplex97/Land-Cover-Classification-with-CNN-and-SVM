@@ -1,0 +1,1 @@
+# Land-Cover-Classification-with-CNN-and-SVM
