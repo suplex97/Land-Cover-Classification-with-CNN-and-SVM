@@ -72,10 +72,13 @@ The methodology includes the following steps:
 ### **Confusion Matrices**
 Confusion matrices were generated for both CNN and SVM models to analyze their classification performance. Below are examples of the matrices for each model:
 
-- **CNN Confusion Matrix**: ![cnn large](https://github.com/user-attachments/assets/0ed2d026-4cc8-4db7-b502-971feea8d7af)
+- **CNN Confusion Matrix**:
+
+![cnn large](https://github.com/user-attachments/assets/0ed2d026-4cc8-4db7-b502-971feea8d7af)
 
 
 - **SVM Confusion Matrix**: 
+
 ![svm large](https://github.com/user-attachments/assets/4073e98b-fb37-4184-945c-2143c6256809)
 
 *(Replace the image paths with actual file names if you upload the confusion matrix visualizations to an `images` folder in your repository.)*
